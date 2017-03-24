@@ -1,0 +1,6 @@
+{
+	"port": 8080,
+	"bodyLimit": "100kb",
+	"corsHeaders": ["Link"],
+	"database": "mongodb://localhost:27017/amazing"
+}
